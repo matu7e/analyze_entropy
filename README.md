@@ -15,7 +15,7 @@ Este script permite analizar la entropía de los tokens JWT para verificar el cu
 ## Requisitos
 
 ### Lenguaje
-- **Python 3.7+**
+- **Python 3.6+**
 
 ### Librerías necesarias
 El script utiliza las librerías estándar de Python. No es necesario instalar librerías externas.
@@ -26,7 +26,7 @@ El script utiliza las librerías estándar de Python. No es necesario instalar l
 
 1. Clona el repositorio o descarga el archivo `analyze_entropy.py`:
    ```bash
-   git clone https://github.com/tu_usuario/analyze_entropy.git
+   git clone https://github.com/matu7e/analyze_entropy.git
    cd analyze_entropy
    ```
 
